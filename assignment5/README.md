@@ -1,12 +1,52 @@
-# React + Vite
+# Assignment 5 - WCD03
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Deskripsi
 
-Currently, two official plugins are available:
+Repositori ini merupakan bagian dari tugas kelima dalam mata kuliah **Web Component Development (WCD03)**. Proyek ini menggunakan **ReactJS** dan **React Hooks** untuk membangun komponen web yang dinamis dan interaktif.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Fitur
 
-## Expanding the ESLint configuration
+- **Menggunakan ReactJS**: Framework modern untuk membangun antarmuka pengguna.
+- **State Management dengan React Hook**: Memanfaatkan `useState`, `useEffect`, dan hook lainnya untuk mengelola state dan efek samping.
+- **Komponen Modular**: Struktur berbasis komponen yang memudahkan pengembangan dan pemeliharaan.
+- **Desain Responsif**: Tampilan menyesuaikan dengan berbagai ukuran layar.
+- **Struktur Folder Tertata**: Memisahkan komponen, gaya, dan aset lainnya.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Teknologi yang Digunakan
+
+- **ReactJS**
+- **JavaScript (ES6+)**
+- **React Hooks (`useState`, `useEffect`)**
+- **CSS Modules / Styled Components (jika ada)**
+
+## Cara Menjalankan
+
+1. **Klon repositori**:
+   ```bash
+   git clone https://github.com/febriandto/WCD03.git
+   ```
+
+2. **Navigasi ke folder assignment5**:
+   ```bash
+   cd WCD03/assignment5
+   ```
+
+3. **Instal dependensi**:
+   ```bash
+   npm install
+   ```
+
+4. **Jalankan aplikasi**:
+   ```bash
+   npm start
+   ```
+
+5. Buka browser dan akses `http://localhost:3000`.
+
+## Kontribusi
+
+Kontribusi sangat terbuka! Silakan fork repositori ini dan ajukan pull request untuk perbaikan atau penambahan fitur.
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
