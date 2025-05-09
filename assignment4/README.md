@@ -1,12 +1,39 @@
-# React + Vite
+# Assignment 4 - WCD03
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Deskripsi
 
-Currently, two official plugins are available:
+Repositori ini merupakan bagian dari tugas keempat dalam mata kuliah **Web Component Development (WCD03)**. Proyek ini bertujuan untuk mengimplementasikan konsep-konsep yang telah dipelajari, termasuk penggunaan HTML, CSS, dan JavaScript untuk membangun komponen web yang interaktif dan responsif.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Fitur
 
-## Expanding the ESLint configuration
+- **Struktur Folder Tertata**: Memisahkan aset seperti gambar, skrip, dan gaya untuk memudahkan pengelolaan.
+- **Desain Responsif**: Menggunakan CSS untuk memastikan tampilan yang baik di berbagai perangkat.
+- **Interaktivitas**: Menyertakan elemen-elemen interaktif yang meningkatkan pengalaman pengguna.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Teknologi yang Digunakan
+
+- **HTML5**: Untuk struktur halaman web.
+- **CSS3**: Untuk styling dan layout.
+- **JavaScript**: Untuk menambahkan interaktivitas pada halaman.
+
+## Cara Menjalankan
+
+1. **Klon repositori**:
+   ```bash
+   git clone https://github.com/febriandto/WCD03.git
+   ```
+2. **Navigasi ke folder assignment4**:
+   ```bash
+   cd WCD03/assignment4
+   ```
+3. **Buka file `index.html` di browser pilihan Anda**:
+   - Klik dua kali pada file `index.html`, atau
+   - Jalankan server lokal dan akses melalui `http://localhost`.
+
+## Kontribusi
+
+Kontribusi sangat terbuka! Silakan fork repositori ini dan ajukan pull request untuk perbaikan atau penambahan fitur.
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
